@@ -1,0 +1,4 @@
+[
+    {"id": 201, "name": "cat", "status": "available"},
+    {"id": 202, "name": "dog", "status": "sold"}
+]
